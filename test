@@ -2,5 +2,6 @@ Mi Chiamo pippo pluto, abito in via degli alberi 1, 12345 Agrigento AG, la mia e
 
 {
   "user" : "pippo",
-  "pwd" : "pluto"
+  "pwd" : "pluto",
+  "supersecrettoken" : "asdfghjhkl"
 }
